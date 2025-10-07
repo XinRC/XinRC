@@ -37,5 +37,8 @@ I am a current undergraduate student studying Computer Engineering at New York U
 <!-- 
 ![OpenCV](https://camo.githubusercontent.com/3e32487dbb93c5678bb38cf547bf226cbeeed1960bd7d2c65bbedf42e11a05f5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4f70656e435626636f6c6f723d354333454538266c6f676f3d4f70656e4356266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
+
+https://gprm.itsvg.in/ -> For Technical Skills images
+
 -->
 
