@@ -33,7 +33,7 @@ I am a current undergraduate student studying Computer Engineering at New York U
 
 <div align = "center">
 
-<sub> *Thanks for stopping by, and have a great rest of your day!* </sub> 
+<sub> *Thanks for stopping by and have a great rest of your day!* </sub> 
 
 </div>
 
