@@ -6,7 +6,7 @@
 
 ### Welcome to my profile! 
 
-I am a current undergraduate student studying Computer Engineering at New York University, interested in a variety of Computer Science/Engineering fields. Currently, I am dabbling in computer vision but I have a lot of other areas I want to explore!
+I am a current undergraduate student studying Computer Engineering at New York University, interested in a variety of Computer Science/Engineering fields. Currently, I am dabbling in computer vision, but I have a lot of other areas I want to explore!
 
 ####  Goals and Interests 
 - 👁️ Computer Vision
