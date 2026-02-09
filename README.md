@@ -8,7 +8,7 @@
 
 I am an undergraduate student studying Computer Engineering at New York University, interested in a variety of Computer Science/Engineering fields. Currently, I am dabbling in computer vision, but I have a lot of other areas I want to explore!
 
-####  Goals and Interests 
+####  Goals and Interests: 
 - 👁️ Computer Vision
 - 🤖 Artificial Intelligence and Robotics
 - ⚔️ Game Development
