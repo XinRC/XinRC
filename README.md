@@ -50,7 +50,7 @@ My interests span a variety of areas within computer science and engineering, an
 
 <div align="center">
 
-*Thanks for stopping by*
+*Thanks for stopping by, and feel free to connect!*
 
 </div>
 
